@@ -1,0 +1,14 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "This is a simple quote generator app built in node.js",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faiyaz Rahman",
+  "license": "ISC"
+}
